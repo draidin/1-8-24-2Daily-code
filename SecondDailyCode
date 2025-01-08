@@ -1,0 +1,7 @@
+#Raidin second Daily Code
+#1/8/24
+#5 min to finish
+#while loop to print "All right Bro" until the user types "enoch stop"
+UserInput = "somthing" #dummy value
+while UserInput != "enoch stop":
+     UserInput = input("All Right Bro")
